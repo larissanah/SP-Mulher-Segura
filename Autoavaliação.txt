@@ -1,0 +1,5 @@
+Autoavaliação da Larissa Natsumi
+
+Este ano aprendi a teoria e a colocar em prática os fundamentos da programação orientada a objetos, como classes, objetos, atributos, métodos, encapsulamento e herança. Entender esses conceitos me ajudou a organizar melhor meu código e a enxergar os problemas de forma mais estruturada.
+Também melhorei na minha organização e facilidade de gerenciar repositórios no GitHub, usando commits, branches e trabalho em equipe com colaboradores. Percebi como a POO facilita a reutilização do código e a manutenção dos projetos.
+Minha meta para 2027 é finalizar um jogo completo e publicá-lo na Google Play Store, aplicando tudo o que aprendi e buscando aprender ainda mais sobre desenvolvimento de jogos.
